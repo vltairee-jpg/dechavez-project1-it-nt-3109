@@ -11,6 +11,7 @@ Portfolio includes the following content:
 - Education
 - Experience
 - Skills
+- Certifications
 - Other information such as contacts, personal information, hobbies, social links
 
 Submitted to: Dean Charliemagne Ramos
